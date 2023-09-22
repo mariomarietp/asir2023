@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Mi Primer Sitio HUGO</title>
+    <link>https://example.org/</link>
+    <description>Recent content on Mi Primer Sitio HUGO</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Sep 2023 10:00:00 +0000</lastBuildDate><atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Explorando la Luna</title>
+      <link>https://example.org/posts/luna/</link>
+      <pubDate>Fri, 22 Sep 2023 10:00:00 +0000</pubDate>
+      
+      <guid>https://example.org/posts/luna/</guid>
+      <description>La Luna es un cuerpo celeste fascinante que ha capturado la imaginación de la humanidad durante siglos. En este post, exploraremos algunos de los aspectos más interesantes sobre la Luna y su influencia en nuestra cultura y ciencia.
+Historia de la exploración lunar Desde las misiones Apollo hasta las sondas espaciales modernas, la Luna ha sido objeto de numerosas misiones de exploración. Aprenderemos sobre algunos de los hitos más importantes en la historia de la exploración lunar.</description>
+    </item>
+    
+  </channel>
+</rss>
